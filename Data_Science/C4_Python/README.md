@@ -1,1 +1,1 @@
-Course URL :
+Course URL :https://www.coursera.org/learn/python-for-applied-data-science-ai
